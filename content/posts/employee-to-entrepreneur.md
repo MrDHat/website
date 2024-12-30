@@ -1,7 +1,17 @@
 +++
-date = '2024-12-29T15:58:20+04:00'
-draft = false
-title = 'From Entrepreneur to Employee: A Journey of Transition and Growth'
+title = "From Entrepreneur to Employee: A Journey of Transition and Growth"
+date = "2024-12-29T15:58:20+04:00"
+#dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
+author = "Akshay Katyal"
+authorTwitter = "mrdhat" #do not include @
+cover = ""
+tags = ["entrepreneurship", "career"]
+keywords = ["", ""]
+description = ""
+showFullContent = false
+readingTime = true
+hideComments = true
+draft=false
 +++
 
 Around 3 years back, after spending seven years an entrepreneur—I found myself at a crossroads. Having built startups, one of which was acquired, I decided to step away from the rollercoaster of entrepreneurship to explore what being an employee is like. This transition wasn’t just about changing roles; it was about navigating a shift in mindset, skillset, and priorities.
