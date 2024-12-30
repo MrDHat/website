@@ -8,7 +8,21 @@
     </div>
   </div>
 </footer>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const mobileTrigger = document.querySelector(
+      ".menu--mobile .menu__trigger"
+    );
 
+    if (mobileTrigger) {
+      mobileTrigger.addEventListener("click", function (e) {
+        e.stopPropagation();
+        const mobileMenu = this.closest(".menu--mobile");
+        mobileMenu.classList.toggle("open");
+      });
+    }
+  });
+</script>
 <style>
   .social-links {
     text-align: center;
