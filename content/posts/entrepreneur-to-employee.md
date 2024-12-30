@@ -14,7 +14,7 @@ hideComments = true
 draft=false
 +++
 
-Around 3 years back, after spending seven years as an entrepreneur—I found myself at a crossroads. Having built startups, one of which was acquired, I decided to step away from the rollercoaster of entrepreneurship to explore what being an employee is like. This transition wasn’t just about changing roles; it was about navigating a shift in mindset, skillset, and priorities.
+Around 3 years back, after spending seven years as an entrepreneur—I found myself at crossroads. Having built startups, one of which was acquired, I decided to step away from the rollercoaster of entrepreneurship to explore what being an employee is like. This transition wasn’t just about changing roles; it was about navigating a shift in mindset, skillset, and priorities.
 
 ## Why I Made the Transition
 
@@ -32,11 +32,11 @@ In contrast, as an employee, especially at larger companies, the scope of influe
 
 That said, both roles require unique skillsets. As an entrepreneur, you are your own boss, setting the vision and figuring things out independently. While I thought this would translate seamlessly into corporate roles, the reality was more nuanced. My entrepreneurial skills helped in certain areas but didn’t always have the impact I had hoped for.
 
-When I think about how my previous entrepreneurship experience helped me in my corporate role, a specific moment comes to mind, where my entrepreneurial mindset made a difference. I noticed that the project wasn’t aligning with customer values—something I’d learned as an entrepreneur could be a death trap. Drawing from my experience, I made the case for tweaks that would prioritize the customer’s needs. This intervention shifted the project in the right direction, reinforcing the value of my entrepreneurial background even in a corporate setting. There were a few more instances like this. I will hopefully write more about that later.
+When I think about how my previous entrepreneurship experience helped me in my corporate role, a specific moment comes to mind, where my entrepreneurial mindset made a difference. I noticed that the project wasn’t aligning with customer values—something I’d learned as an entrepreneur could be a death trap. Drawing from my experience, I made the case for tweaks that would prioritize the customer’s needs. This intervention shifted the project in the right direction, reinforcing the value of my background even in a corporate setting. There were a few more instances like this. I will hopefully write more about that later.
 
 ## The Emotional Side of Transitioning
 
-Adapting to a role with less autonomy was one of the hardest parts of this journey. As an entrepreneur, I was used to making all the decisions; suddenly, I was in a role where my influence was limited. At times, it felt like wearing the "chains of Olympus"—bound by the constraints of hierarchy and process.
+Adapting to a role with less autonomy was one of the hardest parts of this journey. As an entrepreneur, I was used to making all the decisions; suddenly, I was in a role where my influence was limited. At times, it felt like wearing the "Chains of Olympus" — bound by the constraints of hierarchy and process.
 
 Yet, there were moments of liberation. For the first time in years, I could focus solely on building, free from the pressures of fundraising, hiring, and running the business. This duality—feeling both constrained and relieved, was a constant during my transition.
 
@@ -46,6 +46,6 @@ One of the biggest adjustments was recognizing that my role in a corporate job r
 
 My journey from entrepreneur to employee is far from over. While the transition has been challenging, it has also been rewarding. I’ve gained new perspectives, honed my skills, and learned to adapt to environments where my impact is less direct but no less significant.
 
-For those considering a similar path, my advice is simple: embrace the change. Understand that the skills you’ve gained as an entrepreneur—resilience, problem-solving, and creativity—are invaluable, even if their application looks different in a corporate setting.
+For those considering a similar path, my advice is simple: embrace the change. Understand that the skills you’ve gained as an entrepreneur—resilience, problem-solving, and creativity are invaluable, even if their application looks different in a corporate setting.
 
 This transition is a work in progress, but it’s one I’m committed to mastering. After all, growth lies in stepping out of your comfort zone and exploring new ways to create value.
