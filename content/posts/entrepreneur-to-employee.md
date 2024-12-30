@@ -14,7 +14,7 @@ hideComments = true
 draft=false
 +++
 
-Around 3 years back, after spending seven years an entrepreneur—I found myself at a crossroads. Having built startups, one of which was acquired, I decided to step away from the rollercoaster of entrepreneurship to explore what being an employee is like. This transition wasn’t just about changing roles; it was about navigating a shift in mindset, skillset, and priorities.
+Around 3 years back, after spending seven years as an entrepreneur—I found myself at a crossroads. Having built startups, one of which was acquired, I decided to step away from the rollercoaster of entrepreneurship to explore what being an employee is like. This transition wasn’t just about changing roles; it was about navigating a shift in mindset, skillset, and priorities.
 
 ## Why I Made the Transition
 
