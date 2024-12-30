@@ -14,6 +14,8 @@ At Postman, for example, I joined as a technical lead for a new product that had
 
 ## First Impressions: The Entrepreneurial vs. Corporate Experience
 
+When I moved from running my own business to joining a corporate job, I wasn’t sure what to expect. Could I adjust to a structured environment after making all the decisions myself? This change wasn’t just about a new role—it was a whole new way of thinking.
+
 One of the starkest realizations I had during this transition was the difference in impact. As an entrepreneur, every decision I made—whether it was engineering, business, or hiring, directly affected the lives of my customers and team. The creativity I could apply to solving problems was boundless, and the sense of ownership was unparalleled.
 
 In contrast, as an employee, especially at larger companies, the scope of influence felt significantly narrower. Opinions from roles like SDE3 or SDE4 often don’t carry as much weight in strategic decision-making. The vision typically comes from the top, and your role is to execute it. While there is room for creativity in engineering decisions, it is limited compared to the freedom of entrepreneurship.
@@ -26,7 +28,9 @@ When I think about how my previous entrepreneurship experience helped me in my c
 
 Adapting to a role with less autonomy was one of the hardest parts of this journey. As an entrepreneur, I was used to making all the decisions; suddenly, I was in a role where my influence was limited. At times, it felt like wearing the "chains of Olympus"—bound by the constraints of hierarchy and process.
 
-Yet, there were moments of liberation. For the first time in years, I could focus solely on building, free from the pressures of fundraising, hiring, and running the business. This duality—feeling both constrained and relieved—was a constant during my transition.
+Yet, there were moments of liberation. For the first time in years, I could focus solely on building, free from the pressures of fundraising, hiring, and running the business. This duality—feeling both constrained and relieved, was a constant during my transition.
+
+One of the biggest adjustments was recognizing that my role in a corporate job required more focus and specialization. As an entrepreneur, I was used to wearing multiple hats—handling strategy, execution, and team management all at once. In a larger organization, I had to embrace the value of collaboration and trust in others’ expertise, which was both humbling and liberating. This shift taught me to channel my adaptability and decision-making skills into areas where they made the most impact.
 
 ## A Work in Progress
 
