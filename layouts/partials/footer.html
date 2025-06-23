@@ -6,6 +6,15 @@
       <a href="https://twitter.com/mrdhat" target="_blank">Twitter</a>
       <a href="https://linkedin.com/in/mrdhat" target="_blank">LinkedIn</a>
     </div>
+    {{ if $.Site.Copyright }}
+      <div class="copyright copyright--user">
+        <span>{{ $.Site.Copyright | safeHTML }}</span>
+    {{ else }}
+      <div class="copyright">
+        <span>© {{ now.Year }} Powered by <a href="https://gohugo.io">Hugo</a></span>
+    {{ end }}
+      <span>:: <a href="https://github.com/panr/hugo-theme-terminal" target="_blank">Theme</a> made by <a href="https://github.com/panr" target="_blank">panr</a></span>
+      </div>
   </div>
 </footer>
 <script>
