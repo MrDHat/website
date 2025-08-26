@@ -15,7 +15,7 @@ title = "Akshay Katyal | MrDHat"
   # the list of set content will show up on your index page (baseurl).
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -83,10 +83,15 @@ title = "Akshay Katyal | MrDHat"
           url = "/"
           weight = 10
         [[languages.en.menu.main]]
+          identifier = "shelf"
+          name = "shelf"
+          url = "/shelf"
+          weight = 20
+        [[languages.en.menu.main]]
           identifier = "about"
           name = "about"
           url = "/about"
-          weight = 20
+          weight = 30
 
       [languages.en.params]
         readMore = "Read more"
