@@ -1,6 +1,6 @@
 +++
 title = "We Accidentally Built a Second Codebase"
-date = '2026-06-01T20:42:30+01:00'
+date = '2026-06-06T20:42:30+01:00'
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = "Akshay Katyal"
 authorTwitter = "mrdhat" #do not include @
